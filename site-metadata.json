@@ -155,7 +155,7 @@
         "content": "&copy; 2020 Jetpath LLC. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "Made with Jamstack",
                 "url": "https://www.stackbit.com",
                 "style": "link"
             }
