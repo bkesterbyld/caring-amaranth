@@ -43,7 +43,7 @@ sections:
         default_value: Please select
         options:
           - Consulting
-          - Sponsorship
+          - Advisory Work
           - Other
       - input_type: textarea
         name: message
