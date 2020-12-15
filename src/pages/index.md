@@ -15,7 +15,7 @@ sections:
     title: ''
     content: >-
       Jetpath helps tech founders blaze a killer path with advisory services and
-      starter capital. We work with product-driven companies that can achieve
+      starter capital. We work with product-led companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
       network- or bottoms-up adoption effects.
     actions:
