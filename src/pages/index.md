@@ -44,7 +44,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/Webp.net-resizeimage.png
+        image: images/Edge.png
         image_position: top
         image_align: center
         image_has_padding: false
