@@ -13,7 +13,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/pexels-sevenstorm-juhaszimrus-728824.jpg
-    background_image_size: cover
+    background_image_size: auto
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
