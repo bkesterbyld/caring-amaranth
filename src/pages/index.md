@@ -26,7 +26,7 @@ sections:
       - label: Button
         url: /pricing
         style: primary
-        has_icon: true
+        has_icon: false
     actions_position: bottom
     align: center
     padding_top: large
