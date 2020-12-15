@@ -13,7 +13,6 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_size: auto
-    image: images/noun_Radar_62169.svg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
