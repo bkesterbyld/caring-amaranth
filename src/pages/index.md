@@ -4,9 +4,7 @@ sections:
   - type: features_section
     features:
       - title: Venture Development
-        subtitle: >-
-          We help tech founders blaze a great path with advisory services and
-          starter capital
+        subtitle: ''
         media_position: right
         media_width: thirty-three
         align: center
