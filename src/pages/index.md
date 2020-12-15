@@ -5,7 +5,6 @@ sections:
     features:
       - title: Venture Development
         subtitle: We help tech founders blaze a great path
-        image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
         align: center
