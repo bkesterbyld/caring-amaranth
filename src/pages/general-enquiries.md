@@ -2,25 +2,23 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
+    title: Reach out to Jetpath
+    subtitle: How can we help you?
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
     content: >-
-      ### Billing
+      ### Heads Up
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Our fund is small and we're conserving investment resources for our
+      existing companies to get well into 2021. However, we are happy to help
+      founders with advice, consulting or any other way we can be helpful.
 
       ### Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We don't share your information with any third parties. Period.
     content_align: left
     form_position: right
     form_width: fifty
@@ -44,8 +42,8 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
+          - Consulting
+          - Advisory Work
           - Other
       - input_type: textarea
         name: message
