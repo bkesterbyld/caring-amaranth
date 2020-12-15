@@ -23,7 +23,7 @@ sections:
       smaller capital efficient companies end up rewarding early teams with much
       better outcomes than a long venture-backed slog. 
     actions:
-      - label: Button
+      - label: ''
         url: /pricing
         style: primary
         has_icon: false
