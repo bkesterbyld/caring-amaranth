@@ -80,7 +80,7 @@ sections:
         subtitle: ''
         title_align: left
         content: SaaS & hardware for chemical testing of crops
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
