@@ -13,6 +13,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_size: auto
+    image: images/jetpathradar.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
