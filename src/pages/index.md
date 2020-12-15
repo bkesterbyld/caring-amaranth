@@ -23,7 +23,7 @@ sections:
       employees with better outcomes than consuming tons of capital.
     actions:
       - label: Contact
-        url: lorem-ipsum
+        url: /general-enquiries
         style: link
         has_icon: false
         icon: arrow-left
