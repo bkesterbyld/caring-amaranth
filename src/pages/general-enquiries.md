@@ -10,11 +10,11 @@ sections:
     background_color: none
   - type: form_section
     content: >-
-      ### Not Investing
+      ### Heads Up
 
-      Our fund is small and we're conserving resources for our existing
-      companiesto get well into 2021. However, we are happy to help founders
-      with advice, consulting or any other way we can be helpful.
+      Our fund is small and we're conserving investment resources for our
+      existing companies to get well into 2021. However, we are happy to help
+      founders with advice, consulting or any other way we can be helpful.
 
       ### Privacy
 
