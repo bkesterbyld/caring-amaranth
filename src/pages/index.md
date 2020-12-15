@@ -41,7 +41,7 @@ sections:
       - title: ''
         title_align: left
         content: Making ML on tiny devices doable and easy
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image: images/Webp.net-resizeimage.png
