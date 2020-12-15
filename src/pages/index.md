@@ -17,8 +17,8 @@ sections:
       starter capital. We focus on product-driven companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
       network- or bottoms-up adoption effects. And we're not focused on
-      unicorns, we don't think all companies need to be venture scale. Often,
-      smaller capital efficient companies end up rewarding early teams with
+      unicorns, not all companies need to be venture scale. Often, smaller
+      capital efficient companies end up rewarding founders and employees with
       better outcomes than a long venture-capital backed run.
     actions: []
     actions_position: bottom
