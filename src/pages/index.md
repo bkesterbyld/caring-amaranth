@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: Venture Development
-        subtitle: We help your killer product blaze a killer path
+      - title: VENTURE DEVELOPMENT
+        subtitle: ''
         media_position: left
         media_width: thirty-three
         align: center
@@ -14,8 +14,8 @@ sections:
   - type: cta_section
     title: ''
     content: >-
-      Jetpath helps tech founders blaze a great path with advisory services and
-      starter capital. We focus on product-driven companies that can achieve
+      Jetpath helps tech founders blaze a killer path with advisory services and
+      starter capital. We work with product-led companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
       network- or bottoms-up adoption effects.
     actions:
