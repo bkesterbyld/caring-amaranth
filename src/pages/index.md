@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: We help your killer product blaze a killer path
+      - title: Venture Development
         subtitle: ''
         media_position: right
         media_width: thirty-three
