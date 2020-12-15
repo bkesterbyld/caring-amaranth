@@ -13,7 +13,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Companies
+    title: ''
     subtitle: Grid Section Example
     grid_items:
       - title: ''
