@@ -35,7 +35,7 @@ sections:
         actions: []
         actions_align: left
         image: images/concrete.png
-        image_position: left
+        image_position: top
         image_align: left
         image_has_padding: true
       - title: ''
