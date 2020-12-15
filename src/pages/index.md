@@ -21,13 +21,7 @@ sections:
         content: |
           Global data processing network to speed up websites and apps
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/above-logo+(3).png
         image_position: top
