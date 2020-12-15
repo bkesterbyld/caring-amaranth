@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - title: ''
-        subtitle: ''
+        subtitle: venture development
         media_position: left
         media_width: thirty-three
         align: center
