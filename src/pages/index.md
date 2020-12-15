@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - title: Venture Development
-        subtitle: We help your killer product blaze a killer path
+        subtitle: ''
         media_position: left
         media_width: thirty-three
         align: center
