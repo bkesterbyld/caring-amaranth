@@ -49,7 +49,7 @@ sections:
         image_align: center
         image_has_padding: false
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
