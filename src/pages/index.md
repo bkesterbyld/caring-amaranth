@@ -20,7 +20,7 @@ sections:
       network- or bottoms-up adoption effects. And we're not focused on
       unicorns, not all companies need to be venture scale. Often, smaller
       capital efficient companies end up rewarding founders and employees with
-      better outcomes than a long venture-capital backed run.
+      better outcomes than consuming tons of capital.
     actions: []
     actions_position: bottom
     align: center
