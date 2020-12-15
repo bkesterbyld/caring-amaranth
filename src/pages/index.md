@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: We help hard tech founders blaze a great market path.
     actions: []
-    media_position: left
+    media_position: top
     media_width: fifty
     align: left
     padding_top: large
