@@ -7,7 +7,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "DIY",
-        "logo": "images/JetPath-logo-black.png",
+        "logo": "images/jetpath-black-320-132.png",
         "has_primary_nav": false,
         "primary_nav_links": [
             {
