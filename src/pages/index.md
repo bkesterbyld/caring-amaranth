@@ -67,7 +67,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/delgro250.jpg
+        image: images/Webp.net-resizeimage.png
         image_position: top
         image_align: left
         image_has_padding: true
