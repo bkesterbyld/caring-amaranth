@@ -18,8 +18,8 @@ sections:
       amazing CAC (customer acquisition cost) in markets that have strong
       network- or bottoms-up adoption effects. And we're not focused on
       unicorns, we don't think all companies need to be venture scale. Often,
-      smaller capital efficient companies end up rewarding early teams with much
-      better outcomes than a long venture-backed slog. 
+      smaller capital efficient companies end up rewarding early teams with
+      better outcomes than a long venture-capital backed run.
     actions: []
     actions_position: bottom
     align: center
