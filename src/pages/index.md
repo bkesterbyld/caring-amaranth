@@ -17,10 +17,7 @@ sections:
       Jetpath helps tech founders blaze a great path with advisory services and
       starter capital. We focus on product-driven companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
-      network- or bottoms-up adoption effects. While they're great, we're not
-      obsessed with unicorn ideas, not all companies need to be venture scale.
-      Often, smaller capital efficient companies end up rewarding founders and
-      employees with better outcomes than consuming tons of capital.
+      network- or bottoms-up adoption effects.
     actions:
       - label: Contact
         url: /general-enquiries
