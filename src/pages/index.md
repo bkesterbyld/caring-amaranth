@@ -52,7 +52,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: false
-    align: left
+    align: center
     background_color: none
   - type: grid_section
     title: Reviews Section
