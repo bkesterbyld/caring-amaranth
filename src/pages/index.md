@@ -19,7 +19,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          Global processing network to speed up websites and apps
+          Global data processing network to speed up websites and apps
         content_align: left
         actions:
           - label: Learn More
