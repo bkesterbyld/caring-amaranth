@@ -13,7 +13,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: ''
     content: >-
       Jetpath helps tech founders blaze a great path with advisory services and
       starter capital. We focus on product-driven companies that can achieve
