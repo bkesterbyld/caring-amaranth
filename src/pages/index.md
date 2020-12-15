@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/concrete.png
         image_position: top
         image_align: left
         image_has_padding: true
