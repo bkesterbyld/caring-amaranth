@@ -24,7 +24,7 @@ sections:
     actions: []
     actions_position: bottom
     align: center
-    padding_top: none
+    padding_top: medium
     padding_bottom: small
     background_color: secondary
   - type: grid_section
