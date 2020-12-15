@@ -66,7 +66,7 @@ sections:
         subtitle: ''
         title_align: left
         content: Faster residential construction loan draws
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
