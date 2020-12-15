@@ -31,7 +31,7 @@ sections:
         title_align: left
         content: |
           SaaS & hardware for knowing when concrete is ready
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image: images/concrete.png
