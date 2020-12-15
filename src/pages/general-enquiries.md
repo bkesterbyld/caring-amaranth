@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Reach out to Jetpath
-    subtitle: The optional subtitle
+    subtitle: How can we help you?
     align: center
     padding_top: medium
     padding_bottom: medium
