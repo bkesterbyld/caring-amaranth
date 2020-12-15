@@ -24,7 +24,7 @@ sections:
         actions: []
         actions_align: left
         image: images/above-logo+(3).png
-        image_position: bottom
+        image_position: left
         image_align: left
         image_has_padding: true
       - title: ''
