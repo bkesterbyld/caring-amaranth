@@ -47,7 +47,7 @@ sections:
         image: images/Webp.net-resizeimage.png
         image_position: left
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
