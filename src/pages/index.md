@@ -20,7 +20,7 @@ sections:
         title_align: left
         content: |
           Global data processing network to speed up websites and apps
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image: images/above-logo+(3).png
