@@ -29,7 +29,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/above-logo+(3).png
         image_position: top
         image_align: left
         image_has_padding: true
