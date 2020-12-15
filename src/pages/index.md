@@ -5,10 +5,7 @@ sections:
     title: Venture Development
     subtitle: ''
     content: We help hard tech founders blaze a great market path.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     media_position: left
     media_width: fifty
     align: left
