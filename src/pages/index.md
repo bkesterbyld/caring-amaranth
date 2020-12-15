@@ -8,6 +8,7 @@ sections:
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
+        align: center
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
