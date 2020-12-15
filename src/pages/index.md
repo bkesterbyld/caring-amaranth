@@ -6,7 +6,7 @@ sections:
       - title: Venture Development
         subtitle: >-
           We help tech founders blaze a great path with advisory services and
-          investments
+          starter capital
         media_position: right
         media_width: thirty-three
         align: center
