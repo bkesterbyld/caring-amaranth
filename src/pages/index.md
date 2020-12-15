@@ -45,7 +45,7 @@ sections:
         actions: []
         actions_align: left
         image: images/Webp.net-resizeimage.png
-        image_position: left
+        image_position: top
         image_align: left
         image_has_padding: false
     grid_cols: three
