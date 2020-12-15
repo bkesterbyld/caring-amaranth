@@ -15,9 +15,13 @@ sections:
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Jetpath helps tech founders blaze a great path with advisory services and
+      starter capital. We focus on product-driven companies that can achieve
+      amazing CAC (customer acquisition cost) in markets that have strong
+      network- or bottoms-up adoption effects. And we're not focused on
+      unicorns, we don't think all companies need to be venture scale. Often,
+      smaller capital efficient companies end up rewarding early teams with much
+      better outcomes than a long venture-backed slog. 
     actions:
       - label: Button
         url: /pricing
