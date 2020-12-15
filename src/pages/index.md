@@ -21,7 +21,15 @@ sections:
       unicorns, not all companies need to be venture scale. Often, smaller
       capital efficient companies end up rewarding founders and employees with
       better outcomes than consuming tons of capital.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
     actions_position: bottom
     align: center
     padding_top: medium
