@@ -52,7 +52,7 @@ sections:
         subtitle: ''
         title_align: left
         content: 'Automated manufacturing of tiny, precision aerospace components'
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
