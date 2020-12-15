@@ -22,11 +22,7 @@ sections:
       unicorns, we don't think all companies need to be venture scale. Often,
       smaller capital efficient companies end up rewarding early teams with much
       better outcomes than a long venture-backed slog. 
-    actions:
-      - label: ''
-        url: /pricing
-        style: primary
-        has_icon: false
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
