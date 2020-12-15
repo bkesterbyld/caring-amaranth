@@ -42,13 +42,7 @@ sections:
         title_align: left
         content: Making ML on tiny devices doable and easy
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/Webp.net-resizeimage.png
         image_position: top
