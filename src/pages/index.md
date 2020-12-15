@@ -6,9 +6,6 @@ sections:
     subtitle: ''
     content: We help hard tech founders blaze a great market path.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
