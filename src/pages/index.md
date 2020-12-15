@@ -5,9 +5,10 @@ sections:
     features:
       - title: Venture Development
         subtitle: We help your killer product blaze a killer path
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: center
+        image: images/jetpath-white.png
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
@@ -16,15 +17,23 @@ sections:
       Jetpath helps tech founders blaze a great path with advisory services and
       starter capital. We focus on product-driven companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
-      network- or bottoms-up adoption effects. And we're not focused on
-      unicorns, not all companies need to be venture scale. Often, smaller
-      capital efficient companies end up rewarding founders and employees with
-      better outcomes than a long venture-capital backed run.
-    actions: []
+      network- or bottoms-up adoption effects. While they're great, we're not
+      obsessed with unicorn ideas, not all companies need to be venture scale.
+      Often, smaller capital efficient companies end up rewarding founders and
+      employees with better outcomes than consuming tons of capital.
+    actions:
+      - label: Contact
+        url: /general-enquiries
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
     actions_position: bottom
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: small
     background_color: secondary
   - type: grid_section
     title: ''

@@ -1,13 +1,12 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
-    "layout": "full-width",
+    "description": "Venture Development Company",
+    "layout": "boxed",
     "style": "classic",
     "palette": "gray",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "DIY",
-        "logo": "images/jetpath-black-320-132.png",
+        "title": "",
         "has_primary_nav": false,
         "primary_nav_links": [
             {
@@ -36,10 +35,10 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
-                "label": "Get Started",
+                "label": "CONTACT",
                 "url": "/general-enquiries",
                 "style": "primary"
             }
@@ -156,5 +155,5 @@
             }
         ]
     },
-    "title": "Stackbit DIY Theme"
+    "title": "Jetpath"
 }
