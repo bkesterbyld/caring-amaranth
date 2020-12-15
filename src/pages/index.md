@@ -49,7 +49,7 @@ sections:
         image_align: center
         image_has_padding: false
     grid_cols: three
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     grid_gap_vert: small
     enable_cards: false
     align: center
