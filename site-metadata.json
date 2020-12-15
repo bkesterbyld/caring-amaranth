@@ -40,7 +40,7 @@
         "secondary_nav_links": [
             {
                 "label": "Get Started",
-                "url": "/pricing",
+                "url": "/general-enquiries",
                 "style": "primary"
             }
         ],
