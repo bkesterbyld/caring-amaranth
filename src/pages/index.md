@@ -30,7 +30,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          SaaS & hardware for knowing when concrete is ready
+          SaaS & hardware for knowing when concrete is ready (acquired by HILTI)
         content_align: center
         actions: []
         actions_align: left
