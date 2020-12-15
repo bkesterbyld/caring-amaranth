@@ -1,19 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Venture Development
-    subtitle: ''
-    content: We help hard tech founders blaze a great market path.
-    actions: []
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image_size: auto
-    image: images/jetpathradar.png
   - type: features_section
     features:
       - title: >-
