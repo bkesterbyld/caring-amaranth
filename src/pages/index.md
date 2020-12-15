@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Venture Development
     subtitle: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: We help hard tech founders blaze a great market path.
     actions:
       - label: Try Free
         url: /pricing
