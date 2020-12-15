@@ -62,7 +62,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/elitee1.png
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: Faster residential construction loan draws
