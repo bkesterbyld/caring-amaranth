@@ -10,17 +10,15 @@ sections:
     background_color: none
   - type: form_section
     content: >-
-      ### Billing
+      ### Not Investing
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Our fund is small and we're conserving resources for our existing
+      companiesto get well into 2021. However, we are happy to help founders
+      with advice, consulting or any other way we can be helpful.
 
       ### Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We don't share your information with any third parties. Period.
     content_align: left
     form_position: right
     form_width: fifty
