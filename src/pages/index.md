@@ -14,7 +14,7 @@ sections:
     title: Companies
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
+      - title: ''
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
