@@ -7,7 +7,6 @@
     "base_font": "sans-serif",
     "header": {
         "title": "",
-        "logo": "images/jetpath-black-320-132.png",
         "has_primary_nav": false,
         "primary_nav_links": [
             {
