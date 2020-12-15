@@ -7,7 +7,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Features",
