@@ -34,7 +34,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/concrete.png
+        image: images/CS.png
         image_position: top
         image_align: center
         image_has_padding: true
