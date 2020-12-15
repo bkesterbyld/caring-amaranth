@@ -22,7 +22,7 @@ sections:
       Often, smaller capital efficient companies end up rewarding founders and
       employees with better outcomes than consuming tons of capital.
     actions:
-      - label: lorem-ipsum
+      - label: Contact
         url: lorem-ipsum
         style: link
         has_icon: false
