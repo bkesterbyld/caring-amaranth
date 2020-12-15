@@ -50,10 +50,7 @@ sections:
         image_has_padding: true
       - title: ''
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: Making ML on tiny devices doable and easy
         content_align: left
         actions:
           - label: Learn More
