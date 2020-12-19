@@ -47,6 +47,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image_width: twenty-five
       - title: ''
         title_align: left
         content: |
@@ -71,7 +72,7 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: 'Automated manufacturing of tiny, precision aerospace components'
+        content: 'Robotic manufacturing of tiny, precision aerospace components'
         content_align: center
         actions: []
         actions_align: left
@@ -99,7 +100,7 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: SaaS & hardware for chemical testing of crops
+        content: SaaS & hardware chemical testing service to ensure no THC in hemp
         content_align: center
         actions: []
         actions_align: left
