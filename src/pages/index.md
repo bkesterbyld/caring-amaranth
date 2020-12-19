@@ -72,7 +72,9 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: 'Automated manufacturing of tiny, precision aerospace components'
+        content: >-
+          Robotic manufacturing of tiny, precision aerospace components used by
+          SpaceX and plane manufacturers
         content_align: center
         actions: []
         actions_align: left
