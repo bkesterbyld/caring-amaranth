@@ -100,7 +100,7 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: SaaS & hardware for chemical testing of crops
+        content: SaaS & hardware chemical testing service to ensure no THC in hemp
         content_align: center
         actions: []
         actions_align: left
