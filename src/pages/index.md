@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: VENTURE DEVELOPMENT
+      - title: 'VENTURE DEVELOPMENT FOR '
         subtitle: ''
         media_position: left
         media_width: thirty-three
