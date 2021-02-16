@@ -49,8 +49,9 @@ sections:
         image_width: twenty-five
       - title: ''
         title_align: left
-        content: |
-          SaaS & hardware for knowing when concrete is ready (acquired by HILTI)
+        content: >
+          [SaaS & hardware for knowing when concrete is ready (acquired by
+          HILTI)](http://www.concretesensors.com)
         content_align: center
         actions: []
         actions_align: left
