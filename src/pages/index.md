@@ -41,7 +41,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          Global data processing network to speed up websites and apps
+          Persistent edge compute API that speeds up websites and apps
         content_align: center
         actions: []
         actions_align: left
