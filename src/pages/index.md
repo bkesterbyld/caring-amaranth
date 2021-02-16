@@ -12,7 +12,7 @@ sections:
     background_color: primary
     background_image_position: center center
     background_image: images/pexels-pixabay-65865 (1).jpg
-    align: center
+    align: left
     background_image_opacity: 50
     title: FIND YOUR KILLER PATH
   - type: cta_section
