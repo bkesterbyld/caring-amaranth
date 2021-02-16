@@ -7,7 +7,7 @@ sections:
         media_position: bottom
         media_width: sixty
         align: center
-        image: images/jetpathlogo.png
+        image: 
     feature_padding_vert: small
     background_color: secondary
     background_image_position: center center
