@@ -10,6 +10,7 @@ sections:
         image: images/jetpathlogo.png
     feature_padding_vert: small
     background_color: primary
+    background_image_position: center center
   - type: cta_section
     title: ''
     content: >
