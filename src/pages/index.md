@@ -41,7 +41,7 @@ sections:
         content_align: center
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: www.abovecomp.com
             style: link
             has_icon: false
             icon: arrow-left
