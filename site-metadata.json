@@ -10,7 +10,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "CONTACT",
+                "label": "Contact",
                 "url": "/general-enquiries",
                 "style": "link",
                 "has_icon": false,
