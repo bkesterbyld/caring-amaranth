@@ -11,6 +11,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image_position: center center
+    background_image: images/pexels-pixabay-65865 (1).jpg
   - type: cta_section
     title: ''
     content: >
