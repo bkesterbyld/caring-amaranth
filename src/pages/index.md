@@ -13,7 +13,7 @@ sections:
     background_image_position: center center
     background_image: images/pexels-pixabay-65865 (1).jpg
     align: center
-    title: '   venture onward'
+    title: '   venture development'
   - type: cta_section
     title: ''
     content: >
