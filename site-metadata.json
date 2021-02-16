@@ -2,7 +2,7 @@
     "description": "Venture Development Company",
     "layout": "full-width",
     "style": "bold",
-    "palette": "green",
+    "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
