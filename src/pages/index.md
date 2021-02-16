@@ -41,7 +41,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          Persistent edge compute API that speeds up websites and apps
+          No code persistent compute API that speeds up websites and apps
         content_align: center
         actions: []
         actions_align: left
