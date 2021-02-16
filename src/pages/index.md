@@ -39,15 +39,7 @@ sections:
         content: |
           No code persistent compute API that speeds up websites and apps
         content_align: center
-        actions:
-          - label: lorem-ipsum
-            url: www.abovecomp.com
-            style: link
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
         image: images/Above.png
         image_position: top
