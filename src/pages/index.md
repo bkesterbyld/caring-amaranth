@@ -9,11 +9,14 @@ sections:
         align: center
         image: null
     feature_padding_vert: small
-    background_color: secondary
+    background_color: primary
     background_image_position: center center
-    background_image: images/pexels-pixabay-65865 (1).jpg
+    background_image: images/4863446.jpg
     align: center
-    title: '   '
+    background_image_opacity: 50
+    title: VENTURE DEVELOPMENT
+    has_border: false
+    background_image_size: cover
   - type: cta_section
     title: ''
     content: >
@@ -33,8 +36,9 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |
-          No code persistent compute API that speeds up websites and apps
+        content: >
+          [No code persistent compute API that speeds up websites and
+          apps](http://www.abovecomp.com)
         content_align: center
         actions: []
         actions_align: left
@@ -45,8 +49,9 @@ sections:
         image_width: twenty-five
       - title: ''
         title_align: left
-        content: |
-          SaaS & hardware for knowing when concrete is ready (acquired by HILTI)
+        content: >
+          [SaaS & hardware for knowing when concrete is ready (acquired by
+          HILTI)](http://www.concretesensors.com)
         content_align: center
         actions: []
         actions_align: left
@@ -56,7 +61,9 @@ sections:
         image_has_padding: true
       - title: ''
         title_align: left
-        content: Making ML on tiny devices doable and easy
+        content: >
+          [Making ML on tiny devices doable and
+          easy](http://www.edgeimpulse.com)
         content_align: center
         actions: []
         actions_align: left
@@ -81,7 +88,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: Faster residential construction loan draws
+        content: |
+          [Faster residential construction loan draws](www.sitewire.co)
         content_align: center
         actions: []
         actions_align: left
@@ -95,7 +103,9 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: SaaS & hardware chemical testing service to ensure no THC in hemp
+        content: >
+          [SaaS & hardware chemical testing service to ensure no THC in
+          hemp](http://vorga.io)
         content_align: center
         actions: []
         actions_align: left
