@@ -4,7 +4,7 @@ sections:
   - type: features_section
     features:
       - subtitle: ''
-        media_position: left
+        media_position: bottom
         media_width: thirty-three
         align: center
         image: images/jetpathlogo.png
