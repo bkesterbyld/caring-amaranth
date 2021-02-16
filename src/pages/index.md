@@ -16,7 +16,7 @@ sections:
     background_image_opacity: 50
     title: FIND YOUR KILLER PATH
     has_border: false
-    background_image_size: cover
+    background_image_size: auto
   - type: cta_section
     title: ''
     content: >
