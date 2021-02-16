@@ -8,7 +8,7 @@ sections:
         media_position: left
         media_width: thirty-three
         align: center
-        image: images/jetpath-white.png
+        image: images/jetpathlogo.png
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
