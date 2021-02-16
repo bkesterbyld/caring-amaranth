@@ -21,15 +21,7 @@ sections:
       starter capital. We work with product-obsessed companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
       network- or bottoms-up adoption effects.
-    actions:
-      - label: Contact
-        url: /general-enquiries
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        type: action
+    actions: []
     actions_position: bottom
     align: center
     padding_top: medium
