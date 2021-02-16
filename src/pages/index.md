@@ -12,6 +12,7 @@ sections:
     background_color: secondary
     background_image_position: center center
     background_image: images/pexels-pixabay-65865 (1).jpg
+    align: center
   - type: cta_section
     title: ''
     content: >
