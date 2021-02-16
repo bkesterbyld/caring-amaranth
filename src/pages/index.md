@@ -14,6 +14,7 @@ sections:
     background_image: images/pexels-pixabay-65865 (1).jpg
     align: center
     background_image_opacity: 50
+    subtitle: VENTURE DEVELOPMENT
   - type: cta_section
     title: ''
     content: >
