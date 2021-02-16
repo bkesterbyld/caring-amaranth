@@ -36,8 +36,9 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |
-          No code persistent compute API that speeds up websites and apps
+        content: >
+          [No code persistent compute API that speeds up websites and
+          apps](http://www.abovecomp.com)
         content_align: center
         actions: []
         actions_align: left
