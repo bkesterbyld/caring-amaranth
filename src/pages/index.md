@@ -11,7 +11,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image_position: center center
-    background_image: images/about-1.jpg
+    background_image: images/4863446.jpg
     align: center
     background_image_opacity: 50
     title: FIND YOUR KILLER PATH
