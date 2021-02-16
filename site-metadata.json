@@ -11,7 +11,7 @@
         "primary_nav_links": [
             {
                 "label": "CONTACT",
-                "url": "lorem-ipsum",
+                "url": "/general-enquiries",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
