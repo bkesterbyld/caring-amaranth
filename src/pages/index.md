@@ -3,30 +3,25 @@ title: Home
 sections:
   - type: features_section
     features:
-      - title: VENTURE DEVELOPMENT
-        subtitle: ''
-        media_position: left
-        media_width: thirty-three
+      - subtitle: ''
+        media_position: bottom
+        media_width: sixty
         align: center
-        image: images/jetpath-white.png
+        image: null
     feature_padding_vert: small
-    background_color: primary
+    background_color: secondary
+    background_image_position: center center
+    background_image: images/pexels-pixabay-65865 (1).jpg
+    align: center
+    title: '   '
   - type: cta_section
     title: ''
-    content: >-
+    content: >
       Jetpath helps tech founders blaze a killer path with advisory services and
-      starter capital. We work with product-led companies that can achieve
+      starter capital. We work with product-obsessed companies that can achieve
       amazing CAC (customer acquisition cost) in markets that have strong
       network- or bottoms-up adoption effects.
-    actions:
-      - label: Contact
-        url: /general-enquiries
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        type: action
+    actions: []
     actions_position: bottom
     align: center
     padding_top: medium
@@ -39,7 +34,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          Global data processing network to speed up websites and apps
+          No code persistent compute API that speeds up websites and apps
         content_align: center
         actions: []
         actions_align: left
