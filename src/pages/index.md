@@ -64,7 +64,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: www.concretesensors.com
+            url: 'http://www.concretesensors.com'
             style: secondary
             has_icon: true
             icon: arrow-right
