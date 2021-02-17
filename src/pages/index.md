@@ -46,7 +46,7 @@ sections:
         actions:
           - label: Go
             url: www.abovecomp.com
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
