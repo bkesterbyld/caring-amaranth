@@ -91,7 +91,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          [Faster residential construction loan draws](www.sitewire.co)
+          [Faster residential construction loan draws](http://sitewire.co)
         content_align: center
         actions: []
         actions_align: left
