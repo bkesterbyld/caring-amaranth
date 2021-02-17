@@ -40,7 +40,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          No code persistent compute API that delivers faster data experiences
+          Persistent compute API that speeds up frontend data experiences
         content_align: center
         actions:
           - label: visit
