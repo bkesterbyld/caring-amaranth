@@ -103,15 +103,7 @@ sections:
         title_align: left
         content: 'Robotic manufacturing of tiny, precision aerospace components'
         content_align: center
-        actions:
-          - label: visit
-            url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
         actions_width: auto
         image_position: top
