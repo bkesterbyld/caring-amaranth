@@ -121,7 +121,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: sitewire.co
+            url: 'http://sitewire.co'
             style: secondary
             has_icon: true
             icon: arrow-right
