@@ -157,7 +157,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-            new_window: false
+            new_window: true
             type: action
         actions_align: center
         actions_width: auto
