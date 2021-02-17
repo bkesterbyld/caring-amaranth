@@ -104,7 +104,7 @@ sections:
         content: 'Robotic manufacturing of tiny, precision aerospace components'
         content_align: center
         actions:
-          - label: forthcoming website
+          - label: website coming
             style: link
             has_icon: false
             icon: arrow-left
