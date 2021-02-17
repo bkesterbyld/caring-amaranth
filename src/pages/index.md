@@ -71,7 +71,7 @@ sections:
             icon_position: right
             new_window: false
             type: action
-        actions_align: left
+        actions_align: center
         image: images/CS.png
         image_position: top
         image_align: center
