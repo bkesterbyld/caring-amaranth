@@ -102,7 +102,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          Robotic production of tiny parts for SpaceX and others
+          Robotic production of tiny precision parts for SpaceX and others
         content_align: center
         actions:
           - label: website coming
