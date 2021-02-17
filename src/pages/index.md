@@ -115,9 +115,13 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
+        content: >+
           [SaaS & hardware chemical testing service to ensure no THC in
           hemp](http://vorga.io)
+
+
+          SaaS & hardware testing service to assure no THC in hemp
+
         content_align: center
         actions: []
         actions_align: left
