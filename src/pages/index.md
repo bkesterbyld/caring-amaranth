@@ -101,10 +101,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >+
-          Software used by companies like SpaceX to manufacture precision
-          components
-
+        content: |
+          Robotic production of tiny parts for SpaceX and others
         content_align: center
         actions:
           - label: website coming
