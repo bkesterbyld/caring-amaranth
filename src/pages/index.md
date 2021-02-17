@@ -63,7 +63,7 @@ sections:
           SaaS & hardware to know when concrete is cured (acquired by HILTI)
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: visit
             url: lorem-ipsum
             style: link
             has_icon: false
