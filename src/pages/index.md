@@ -18,6 +18,7 @@ sections:
     has_border: false
     background_image_size: cover
     padding_top: medium
+    padding_bottom: small
   - type: cta_section
     title: ''
     content: >
