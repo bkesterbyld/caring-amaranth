@@ -71,9 +71,11 @@ sections:
         image_has_padding: true
       - title: ''
         title_align: left
-        content: >
-          [Making ML on tiny devices doable and
-          easy](http://www.edgeimpulse.com)
+        content: |+
+          Making ML on tiny devices doable and easy
+
+
+
         content_align: center
         actions: []
         actions_align: left
