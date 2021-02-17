@@ -15,7 +15,7 @@ sections:
     align: center
     background_image_opacity: 50
     title: VENTURE DEVELOPMENT
-    has_border: false
+    has_border: true
     background_image_size: cover
     padding_top: medium
     padding_bottom: small
