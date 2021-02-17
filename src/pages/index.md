@@ -102,7 +102,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          Precision part production software used by SpaceX and others
+          Premium robotic management software used by SpaceX and others
         content_align: center
         actions:
           - label: website coming
