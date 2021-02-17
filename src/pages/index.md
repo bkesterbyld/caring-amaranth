@@ -105,7 +105,6 @@ sections:
         content_align: center
         actions:
           - label: forthcoming website
-            url: forthcoming
             style: link
             has_icon: false
             icon: arrow-left
