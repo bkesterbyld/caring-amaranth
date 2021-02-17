@@ -86,7 +86,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: lorem-ipsum
+            url: www.edgeimpulse.com
             style: link
             has_icon: false
             icon: arrow-left
