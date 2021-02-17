@@ -101,10 +101,18 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: 'Robotic manufacturing of tiny, precision aerospace components'
+        content: |
+          Robotic production of tiny precision parts for SpaceX and others
         content_align: center
-        actions: []
-        actions_align: left
+        actions:
+          - label: website coming
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_position: top
         image_width: fifty
