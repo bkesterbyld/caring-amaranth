@@ -17,6 +17,7 @@ sections:
     title: VENTURE DEVELOPMENT
     has_border: false
     background_image_size: cover
+    padding_top: medium
   - type: cta_section
     title: ''
     content: >
