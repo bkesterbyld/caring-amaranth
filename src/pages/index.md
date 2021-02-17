@@ -19,7 +19,7 @@ sections:
     background_image_size: cover
     padding_top: medium
     padding_bottom: small
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
   - type: cta_section
     title: ''
     content: >
