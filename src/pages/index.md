@@ -50,7 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: left
-            new_window: false
+            new_window: true
             type: action
         actions_align: left
         image: images/Above.png
