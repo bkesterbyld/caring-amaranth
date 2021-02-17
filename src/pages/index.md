@@ -142,7 +142,15 @@ sections:
         content: |
           SaaS & hardware testing service to assure no THC in hemp
         content_align: center
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         actions_width: auto
         image_position: top
