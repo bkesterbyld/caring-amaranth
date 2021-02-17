@@ -44,7 +44,7 @@ sections:
           apps](http://www.abovecomp.com)
         content_align: center
         actions:
-          - label: Go
+          - label: visit
             url: www.abovecomp.com
             style: secondary
             has_icon: false
