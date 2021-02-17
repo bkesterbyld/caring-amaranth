@@ -144,7 +144,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: lorem-ipsum
+            url: 'http://vorga.io'
             style: link
             has_icon: false
             icon: arrow-left
