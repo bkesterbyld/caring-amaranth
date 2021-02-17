@@ -64,7 +64,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: lorem-ipsum
+            url: www.concretesensors.com
             style: link
             has_icon: false
             icon: arrow-left
