@@ -39,9 +39,8 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |+
-          No code persistent compute API that speeds up websites and apps
-
+        content: |
+          No code persistent compute API that delivers faster data experiences
         content_align: center
         actions:
           - label: visit
