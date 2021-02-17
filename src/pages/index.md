@@ -44,7 +44,7 @@ sections:
           apps](http://www.abovecomp.com)
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Go
             url: lorem-ipsum
             style: link
             has_icon: false
