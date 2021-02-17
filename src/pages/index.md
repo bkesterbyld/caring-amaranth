@@ -65,7 +65,7 @@ sections:
         actions:
           - label: visit
             url: www.concretesensors.com
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
