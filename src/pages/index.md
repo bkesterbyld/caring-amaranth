@@ -101,8 +101,9 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |
-          Premium robotic management software used by SpaceX and others
+        content: >
+          Premium robotic management software used by aerospace companies like
+          SpaceX
         content_align: center
         actions:
           - label: website coming
