@@ -44,7 +44,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: www.abovecomp.com
+            url: 'http://www.abovecomp.com'
             style: secondary
             has_icon: true
             icon: arrow-right
