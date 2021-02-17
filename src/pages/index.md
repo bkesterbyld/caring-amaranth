@@ -101,9 +101,10 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          Robotic manufacturing of tiny, precision aerospace components used by
-          SpaceX and others
+        content: >+
+          Robotic production of precision aerospace components used by SpaceX
+          and others
+
         content_align: center
         actions:
           - label: website coming
