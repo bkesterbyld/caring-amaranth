@@ -49,7 +49,7 @@ sections:
             style: secondary
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: left
             new_window: false
             type: action
         actions_align: left
