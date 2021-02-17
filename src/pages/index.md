@@ -39,12 +39,19 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: >
-          [No code persistent compute API that speeds up websites and
-          apps](http://www.abovecomp.com)
+        content: |
+          Persistent compute API that speeds up frontend data experiences
         content_align: center
-        actions: []
-        actions_align: left
+        actions:
+          - label: visit
+            url: www.abovecomp.com
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: true
+            type: action
+        actions_align: center
         image: images/Above.png
         image_position: top
         image_align: center
@@ -52,24 +59,41 @@ sections:
         image_width: twenty-five
       - title: ''
         title_align: left
-        content: >
-          [SaaS & hardware for knowing when concrete is ready (acquired by
-          HILTI)](http://www.concretesensors.com)
+        content: |
+          SaaS & hardware to know when concrete is cured (acquired by HILTI)
         content_align: center
-        actions: []
-        actions_align: left
+        actions:
+          - label: visit
+            url: www.concretesensors.com
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: center
         image: images/CS.png
         image_position: top
         image_align: center
         image_has_padding: true
       - title: ''
         title_align: left
-        content: >
-          [Making ML on tiny devices doable and
-          easy](http://www.edgeimpulse.com)
+        content: |+
+          Making ML on tiny devices doable and easy
+
+
+
         content_align: center
-        actions: []
-        actions_align: left
+        actions:
+          - label: visit
+            url: www.edgeimpulse.com
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: center
         image: images/Edge.png
         image_position: top
         image_align: center
@@ -91,11 +115,20 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |
-          [Faster residential construction loan draws](http://sitewire.co)
+        content: |+
+          Faster residential construction loan draws
+
         content_align: center
-        actions: []
-        actions_align: left
+        actions:
+          - label: visit
+            url: 'http://sitewire.co'
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_position: top
         image_width: fifty
@@ -106,12 +139,19 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          [SaaS & hardware chemical testing service to ensure no THC in
-          hemp](http://vorga.io)
+        content: |
+          SaaS & hardware testing service to assure no THC in hemp
         content_align: center
-        actions: []
-        actions_align: left
+        actions:
+          - label: visit
+            url: 'http://vorga.io'
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_position: top
         image_width: fifty
