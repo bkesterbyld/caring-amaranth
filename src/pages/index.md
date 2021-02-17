@@ -60,10 +60,8 @@ sections:
         image_width: twenty-five
       - title: ''
         title_align: left
-        content: >+
-          SaaS & hardware to know when concrete is ready to build on (acquired
-          by HILTI)
-
+        content: |
+          SaaS & hardware to know when concrete is cured (acquired by HILTI)
         content_align: center
         actions: []
         actions_align: left
