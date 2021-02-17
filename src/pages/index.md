@@ -9,14 +9,17 @@ sections:
         align: center
         image: null
     feature_padding_vert: small
-    background_color: primary
+    background_color: secondary
     background_image_position: center center
-    background_image: images/4863446.jpg
+    background_image: images/ventureonwardjetpath.jpg
     align: center
-    background_image_opacity: 50
+    background_image_opacity: 40
     title: VENTURE DEVELOPMENT
-    has_border: false
+    has_border: true
     background_image_size: cover
+    padding_top: medium
+    padding_bottom: small
+    background_image_repeat: repeat
   - type: cta_section
     title: ''
     content: >
@@ -89,7 +92,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          [Faster residential construction loan draws](www.sitewire.co)
+          [Faster residential construction loan draws](http://sitewire.co)
         content_align: center
         actions: []
         actions_align: left
