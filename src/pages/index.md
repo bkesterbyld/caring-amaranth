@@ -44,7 +44,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: www.abovecomp.com
+            url: 'http://www.abovecomp.com'
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -64,7 +64,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: www.concretesensors.com
+            url: 'http://www.concretesensors.com'
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -86,7 +86,7 @@ sections:
         content_align: center
         actions:
           - label: visit
-            url: www.edgeimpulse.com
+            url: 'http://www.edgeimpulse.com'
             style: secondary
             has_icon: true
             icon: arrow-right
