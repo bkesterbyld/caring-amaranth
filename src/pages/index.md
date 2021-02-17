@@ -52,7 +52,7 @@ sections:
             icon_position: left
             new_window: true
             type: action
-        actions_align: left
+        actions_align: center
         image: images/Above.png
         image_position: top
         image_align: center
