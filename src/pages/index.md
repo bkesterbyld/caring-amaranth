@@ -101,9 +101,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          Robotic production of precision aerospace parts used by SpaceX and
-          others
+        content: |
+          Precision part production software used by SpaceX and others
         content_align: center
         actions:
           - label: website coming
