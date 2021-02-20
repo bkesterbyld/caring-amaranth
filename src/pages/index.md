@@ -9,7 +9,7 @@ sections:
         align: center
         image: null
     feature_padding_vert: small
-    background_color: none
+    background_color: secondary
     background_image_position: center center
     background_image: images/ventureonwardjetpath.jpg
     align: center
