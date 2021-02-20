@@ -24,10 +24,22 @@ sections:
     title: ''
     content: >
       We help tech founders blaze a killer path with advisory services and
-      starter capital. We focus on product-obsessed companies with a real
-      technology moat that have the potential to achieve an amazing CAC
-      (customer acquisition cost) in markets that have strong network- or
-      bottoms-up adoption effects.
+      starter capital. We focus on product-obsessed companies with the following
+      characteristics:
+
+
+      *   Humility, adaptability and indomitable curiosity in the founders
+
+
+      *   Deep tech or real technology-based moat
+
+
+      *   Targeting markets with bottoms-up or network-based GTM (alt
+
+
+      moat that have the potential to achieve an amazing CAC (customer
+      acquisition cost) in markets that have strong network- or bottoms-up
+      adoption effects.
     actions: []
     actions_position: bottom
     align: center
