@@ -25,8 +25,8 @@ sections:
     content: >
       We help technical founders blaze a killer path with advisory services and
       starter capital. We focus on product-obsessed companies targeting markets
-      and user bases with strong bottom-up or network-based customer acquisition
-      potential.
+      and user bases with strong bottoms-up or network-based customer
+      acquisition potential.
     actions: []
     actions_position: bottom
     align: center
