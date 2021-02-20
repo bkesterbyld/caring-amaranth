@@ -13,7 +13,7 @@ sections:
     background_image_position: center center
     background_image: images/ventureonwardjetpath.jpg
     align: center
-    background_image_opacity: 0
+    background_image_opacity: 90
     title: VENTURE DEVELOPMENT
     has_border: true
     background_image_size: cover
