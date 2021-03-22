@@ -40,7 +40,7 @@ sections:
       - title: ''
         title_align: left
         content: >
-          Persistent compute API that speeds up frontend development and data
+          Persistent compute API that speeds up frontend projects and data
           experiences
         content_align: center
         actions:
