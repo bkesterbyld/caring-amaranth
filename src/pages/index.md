@@ -39,8 +39,9 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |
-          Persistent compute API that speeds up frontend data experiences
+        content: >
+          Persistent compute API that speeds up frontend development and data
+          experiences
         content_align: center
         actions:
           - label: visit
