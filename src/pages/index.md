@@ -23,10 +23,10 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      We help technical founders blaze a killer path with advisory services and
-      starter capital. We focus on product-obsessed companies targeting markets
-      and user bases with strong bottoms-up or network-based customer
-      acquisition potential.
+      We help technical founders blaze a market innovation path with advisory
+      services and starter capital. We focus on product-obsessed companies
+      targeting markets and user bases with strong bottoms-up or network-based
+      customer acquisition potential.
     actions: []
     actions_position: bottom
     align: center
