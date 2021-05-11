@@ -11,7 +11,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image_position: center center
-    background_image: images/jp-banner3.png
+    background_image: images/jp-banner4.png
     align: center
     background_image_opacity: 85
     title: VENTURE DEVELOPMENT
@@ -23,10 +23,10 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      We help technical founders blaze a killer path with advisory services and
-      starter capital. We focus on product-obsessed companies targeting markets
-      and user bases with strong bottoms-up or network-based customer
-      acquisition potential.
+      We help technical founders blaze a market innovation path with advisory
+      services, starter capital and fundraising assistance. We focus on
+      customer-obsessed ventures forging markets with strong bottoms-up or
+      network-based GTM potential.
     actions: []
     actions_position: bottom
     align: center
@@ -39,9 +39,8 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: >
-          Persistent compute API that speeds up frontend projects and data
-          experiences
+        content: |
+          No code data prototyping platform for software product managers
         content_align: center
         actions:
           - label: visit
