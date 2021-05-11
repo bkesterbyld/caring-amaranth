@@ -23,8 +23,8 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      We help technical founders blaze a market innovation path with advisory
-      services, starter capital and fundraising assistance. We focus on
+      We help technical founders define a market innovation path and launch with
+      advisory services, starter capital and fundraising assistance. We focus on
       customer-obsessed ventures forging markets with strong bottoms-up or
       network-based GTM potential.
     actions: []
