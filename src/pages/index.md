@@ -11,7 +11,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image_position: center center
-    background_image: images/jp-banner3.png
+    background_image: images/jp-banner4.png
     align: center
     background_image_opacity: 85
     title: VENTURE DEVELOPMENT
