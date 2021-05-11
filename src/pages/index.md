@@ -39,9 +39,8 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: >
-          Persistent compute API that speeds up frontend projects and data
-          experiences
+        content: |
+          No code data prototyping platform for product managers
         content_align: center
         actions:
           - label: visit
