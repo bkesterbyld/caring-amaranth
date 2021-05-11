@@ -24,9 +24,9 @@ sections:
     title: ''
     content: >
       We help technical founders blaze a market innovation path with advisory
-      services and starter capital. We focus on customer-obsessed companies
-      targeting or creating markets with strong bottoms-up or network-based user
-      acquisition potential.
+      services and starter capital. We focus on customer-obsessed, capital
+      efficient companies targeting or creating markets with strong bottoms-up
+      or network-based user acquisition potential.
     actions: []
     actions_position: bottom
     align: center
