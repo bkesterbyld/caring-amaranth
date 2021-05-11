@@ -40,7 +40,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          No code data prototyping platform for product managers
+          No code data prototyping platform for software product managers
         content_align: center
         actions:
           - label: visit
