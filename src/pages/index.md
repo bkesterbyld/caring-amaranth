@@ -11,7 +11,7 @@ sections:
     feature_padding_vert: small
     background_color: none
     background_image_position: center center
-    background_image: images/ventureonwardjetpath.jpg
+    background_image: images/jp-banner.png
     align: center
     background_image_opacity: 85
     title: VENTURE DEVELOPMENT
