@@ -9,13 +9,13 @@ sections:
         align: center
         image: null
     feature_padding_vert: small
-    background_color: secondary
+    background_color: primary
     background_image_position: center center
-    background_image: images/ventureonwardjetpath.jpg
+    background_image: images/jp-banner3.png
     align: center
-    background_image_opacity: 40
+    background_image_opacity: 85
     title: VENTURE DEVELOPMENT
-    has_border: true
+    has_border: false
     background_image_size: cover
     padding_top: medium
     padding_bottom: small
@@ -23,10 +23,10 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      Jetpath helps tech founders blaze a killer path with advisory services and
-      starter capital. We work with product-obsessed companies that can achieve
-      amazing CAC (customer acquisition cost) in markets that have strong
-      network- or bottoms-up adoption effects.
+      We help technical founders blaze a killer path with advisory services and
+      starter capital. We focus on product-obsessed companies targeting markets
+      and user bases with strong bottoms-up or network-based customer
+      acquisition potential.
     actions: []
     actions_position: bottom
     align: center
@@ -39,8 +39,9 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |
-          Persistent compute API that speeds up frontend data experiences
+        content: >
+          Persistent compute API that speeds up frontend projects and data
+          experiences
         content_align: center
         actions:
           - label: visit
