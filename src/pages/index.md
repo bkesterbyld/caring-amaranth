@@ -174,4 +174,5 @@ sections:
     align: center
     background_color: none
 template: advanced
+excerpt: asfasdf
 ---
