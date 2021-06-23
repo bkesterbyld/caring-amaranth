@@ -42,8 +42,8 @@ sections:
       - title: ''
         title_align: left
         content: >
-          No code app building across disparate real time machine, cloud and ERP
-          data sources
+          No code app building across real time machine, cloud and ERP data
+          sources
         content_align: center
         actions:
           - label: visit
