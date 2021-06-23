@@ -27,7 +27,7 @@ sections:
       advisory services, starter capital and fundraising assistance.
 
 
-      Our focus is on companies building cloud-based products that leverage
+      Our focus is on companies building cloud-native products that leverage
       real-time data from machines, sensors, mobile apps, and proprietary data
       stores.
     actions: []
