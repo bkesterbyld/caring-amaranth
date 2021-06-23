@@ -14,7 +14,7 @@ sections:
     background_image: images/jp-banner4.png
     align: center
     background_image_opacity: 85
-    title: THE FUTURE IS REAL TIME AND CONNECTED
+    title: 'THE FUTURE IS REAL TIME, INTELLIGENT AND AUTOMATIC'
     has_border: false
     background_image_size: cover
     padding_top: medium
