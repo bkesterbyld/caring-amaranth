@@ -14,7 +14,7 @@ sections:
     background_image: images/jp-banner4.png
     align: center
     background_image_opacity: 85
-    title: VENTURE DEVELOPMENT
+    title: 'THE FUTURE IS REAL TIME, INTELLIGENT AND AUTOMATIC'
     has_border: false
     background_image_size: cover
     padding_top: medium
@@ -27,8 +27,9 @@ sections:
       advisory services, starter capital and fundraising assistance.
 
 
-      We focus on enterprise companies at the intersection of cloud, machines
-      and mobile apps.
+      Our focus is on companies building cloud-native products that leverage
+      real-time data from machines, sensors, mobile apps, and proprietary data
+      stores.
     actions: []
     actions_position: bottom
     align: center
@@ -42,7 +43,7 @@ sections:
       - title: ''
         title_align: left
         content: >
-          No code app building across disparate machine, cloud and ERP data
+          No code app building across real time machine, cloud and ERP data
           sources
         content_align: center
         actions:
@@ -125,7 +126,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          SaaS and mobile app to monitor construction loan progress
+          SaaS and mobile app to automate construction loan payments
         content_align: center
         actions:
           - label: visit
@@ -148,7 +149,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          SaaS & hardware testing service to assure no THC in hemp
+          SaaS & hardware testing service to assure no THC in hemp products
         content_align: center
         actions:
           - label: visit
