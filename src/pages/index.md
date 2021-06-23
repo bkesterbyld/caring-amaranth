@@ -14,7 +14,7 @@ sections:
     background_image: images/jp-banner4.png
     align: center
     background_image_opacity: 85
-    title: 'VENTURE DEVELOPMENT AROUNDREAL TIME, CONNECTED PRODUCTS'
+    title: THE FUTURE IS REAL TIME AND CONNECTED
     has_border: false
     background_image_size: cover
     padding_top: medium
