@@ -41,8 +41,9 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |
-          No code app building across disparate data sources
+        content: >
+          No code app building across disparate machine, cloud and ERP data
+          sources
         content_align: center
         actions:
           - label: visit
