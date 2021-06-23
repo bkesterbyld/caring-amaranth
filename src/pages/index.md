@@ -24,9 +24,11 @@ sections:
     title: ''
     content: >
       We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance. We focus on
-      enterprise companies at the intersection of cloud, machines and mobile
-      apps. 
+      advisory services, starter capital and fundraising assistance.
+
+
+      We focus on enterprise companies at the intersection of cloud, machines
+      and mobile apps.
     actions: []
     actions_position: bottom
     align: center
