@@ -24,9 +24,11 @@ sections:
     title: ''
     content: >
       We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance. We focus on
-      customer-obsessed ventures creating opportunities with strong bottoms-up
-      or network-based GTM potential.
+      advisory services, starter capital and fundraising assistance.
+
+
+      We focus on enterprise companies at the intersection of cloud, machines
+      and mobile apps.
     actions: []
     actions_position: bottom
     align: center
@@ -39,8 +41,9 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: |
-          No code app building across disparate data sources
+        content: >
+          No code app building across disparate machine, cloud and ERP data
+          sources
         content_align: center
         actions:
           - label: visit
@@ -78,9 +81,8 @@ sections:
         image_has_padding: true
       - title: ''
         title_align: left
-        content: >
-          Making ML for embedded (specifically OSS TinyML) both easy and
-          scalable
+        content: |
+          Making ML for on tiny devices both doable and easy
         content_align: center
         actions:
           - label: visit
@@ -99,8 +101,9 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |
-          Robotic production of tiny precision parts for SpaceX and others
+        content: >
+          Cloud-to-CAM software enabling robotic production of tiny precision
+          parts for SpaceX and others
         content_align: center
         actions:
           - label: website coming
@@ -121,9 +124,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |+
-          Faster residential construction loan draws
-
+        content: |
+          SaaS and mobile app to monitor construction loan progress
         content_align: center
         actions:
           - label: visit
