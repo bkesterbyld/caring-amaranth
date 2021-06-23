@@ -149,7 +149,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          SaaS & hardware testing service to assure no THC in hemp
+          SaaS & hardware testing service to assure no THC in hemp products
         content_align: center
         actions:
           - label: visit
