@@ -80,9 +80,8 @@ sections:
         image_has_padding: true
       - title: ''
         title_align: left
-        content: >
-          Making ML for embedded (specifically OSS TinyML) both easy and
-          scalable
+        content: |
+          Making ML for on tiny devices both doable and easy
         content_align: center
         actions:
           - label: visit
