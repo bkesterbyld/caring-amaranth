@@ -125,7 +125,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          SaaS and mobile app to monitor construction loan progress
+          SaaS and mobile app to automate construction loan payments
         content_align: center
         actions:
           - label: visit
