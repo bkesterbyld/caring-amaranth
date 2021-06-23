@@ -23,12 +23,13 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      Jetpath works with B2B companies building the future of real-time,
-      autonomous business.
-
-
       We help technical founders define a market innovation path and launch with
       advisory services, starter capital and fundraising assistance.
+
+
+      Our focus is on companies building cloud-based products that leverage
+      real-time data from machines, sensors, mobile apps, and proprietary data
+      stores.
     actions: []
     actions_position: bottom
     align: center
