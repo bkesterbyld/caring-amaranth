@@ -25,8 +25,8 @@ sections:
     content: >
       We help technical founders define a market innovation path and launch with
       advisory services, starter capital and fundraising assistance. We focus on
-      customer-obsessed ventures creating opportunities with strong bottoms-up
-      or network-based GTM potential.
+      enterprise companies at the intersection of cloud, machines and mobile
+      apps. 
     actions: []
     actions_position: bottom
     align: center
