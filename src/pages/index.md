@@ -122,9 +122,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |+
-          Faster residential construction loan draws
-
+        content: |
+          SaaS and mobile app to monitor construction loan progress
         content_align: center
         actions:
           - label: visit
