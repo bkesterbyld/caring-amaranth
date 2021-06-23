@@ -22,13 +22,15 @@ sections:
     background_image_repeat: repeat
   - type: cta_section
     title: ''
-    content: >
-      Helping technical founders define a market innovation path and launch with
+    content: >+
+      Jetpath works with B2B companies building the future of real-time,
+      autonomous business that leverage the intersection of machines, cloud and
+      mobile. 
+
+
+      We help technical founders define a market innovation path and launch with
       advisory services, starter capital and fundraising assistance.
 
-
-      Focused on B2B companies at the intersection of cloud, machines and mobile
-      apps.
     actions: []
     actions_position: bottom
     align: center
