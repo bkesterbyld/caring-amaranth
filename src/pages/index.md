@@ -43,8 +43,7 @@ sections:
       - title: ''
         title_align: left
         content: >
-          No code app building across real time machine, cloud and ERP data
-          sources
+          Smart multi-cloud datastore for low code data analytics and app building
         content_align: center
         actions:
           - label: visit
@@ -64,7 +63,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          SaaS & hardware to know when concrete is cured (acquired by HILTI)
+          SaaS & wireless sensors to know when concrete is cured (acquired by HILTI)
         content_align: center
         actions:
           - label: visit
