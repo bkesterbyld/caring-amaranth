@@ -83,7 +83,7 @@ sections:
       - title: ''
         title_align: left
         content: |
-          Making ML for on tiny devices both doable and easy
+          Making ML on tiny devices both doable and easy
         content_align: center
         actions:
           - label: visit
