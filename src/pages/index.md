@@ -28,8 +28,7 @@ sections:
 
 
       Our focus is on companies building cloud-native products that leverage
-      real-time data from machines, sensors, mobile apps, and proprietary data
-      stores.
+      real-time data from machines, mobile apps, and proprietary data stores.
     actions: []
     actions_position: bottom
     align: center
