@@ -101,9 +101,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          Cloud-to-CAM software enabling robotic production of tiny precision
-          parts for SpaceX and others
+        content: |
+          Fintech company that taps into enteprise backbone data. Coming soon.
         content_align: center
         actions:
           - label: website coming
