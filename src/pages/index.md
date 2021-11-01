@@ -28,8 +28,7 @@ sections:
 
 
       Our focus is on companies building cloud-native products that leverage
-      real-time data from machines, sensors, mobile apps, and proprietary data
-      stores.
+      real-time data from machines, mobile apps, and proprietary data stores.
     actions: []
     actions_position: bottom
     align: center
@@ -101,9 +100,8 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          Cloud-to-CAM software enabling robotic production of tiny precision
-          parts for SpaceX and others
+        content: |
+          Fintech company that taps into enteprise backbone data. Coming soon.
         content_align: center
         actions:
           - label: website coming
@@ -120,7 +118,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/elitee1.png
+        image: images/1523260171056.jpg
       - title: ''
         subtitle: ''
         title_align: left
