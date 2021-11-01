@@ -100,8 +100,9 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |
-          Fintech company that taps into enterprise backbone data. Coming soon.
+        content: >
+          ML company that harvests productivity data from disparate robot
+          systems within an enterprise.
         content_align: center
         actions:
           - label: website coming
