@@ -102,7 +102,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          Fintech company that taps into enteprise backbone data. Coming soon.
+          Fintech company that taps into enterprise backbone data. Coming soon.
         content_align: center
         actions:
           - label: website coming
