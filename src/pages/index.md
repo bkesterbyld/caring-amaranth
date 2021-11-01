@@ -119,7 +119,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/1523260171056.jpg
+        image: images/2021-11-01_12-57-51.png
       - title: ''
         subtitle: ''
         title_align: left
