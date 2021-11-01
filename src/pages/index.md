@@ -120,7 +120,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/elitee1.png
+        image: images/1523260171056.jpg
       - title: ''
         subtitle: ''
         title_align: left
