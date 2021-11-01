@@ -41,9 +41,8 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: >
-          No code app building across real time machine, cloud and ERP data
-          sources
+        content: |
+          Data prototyping for digital product managers
         content_align: center
         actions:
           - label: visit
