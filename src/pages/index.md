@@ -101,8 +101,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ML company that harvests productivity data from disparate robot
-          systems within an enterprise.
+          ML that harvests productivity data from disparate robot systems within
+          an enterprise.
         content_align: center
         actions:
           - label: website coming
