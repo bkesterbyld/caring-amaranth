@@ -47,7 +47,7 @@ sections:
       - input_type: textarea
         name: message
         default_value: Your message
-        label: Mesage us or provi
+        label: Mesage us or tell us if you're interested in a job
       - input_type: checkbox
         name: consent
         label: >-
