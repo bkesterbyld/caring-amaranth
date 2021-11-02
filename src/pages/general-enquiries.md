@@ -10,12 +10,12 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ### Heads Up
+      ### Investing is Paused
 
 
-      Our fund is small and we're conserving investment resources for our
-      existing companies to get well into 2022. However, we are happy to help
-      founders with advice, consulting or any other way we can be helpful.
+      We're conserving investment resources for our existing companies to get
+      well into 2022. However, we are happy to help founders with advice,
+      consulting, or any other way we can be helpful.
 
 
       ### Jobs
