@@ -22,8 +22,8 @@ sections:
 
 
       We're currently looking for an Elixir engineer that wants to get it on the
-      ground floor of a stealth FinTech startup. It's a very unique opportunity
-      with a proven, fun team.
+      ground floor of a stealth FinTech startup. It's a very unique and
+      lucrative opportunity with a proven, fun team.
     content_align: left
     form_position: right
     form_width: fifty
