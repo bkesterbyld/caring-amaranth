@@ -18,14 +18,12 @@ sections:
       founders with advice, consulting or any other way we can be helpful.
 
 
-
-
       ### Jobs
 
 
       We're currnetly looking for an Elixir engineer that wants to get it on the
-      ground floor of a stealth FinTech startup. Unique opportunity with a
-      proven team. 
+      ground floor of a stealth FinTech startup. It's a very unique opportunity
+      with a proven, fun team. 
     content_align: left
     form_position: right
     form_width: fifty
