@@ -45,7 +45,7 @@ sections:
       - input_type: textarea
         name: message
         default_value: Your message
-        label: Mesage us or tell us if you're interested in a job
+        label: 'If interested in our Elixir role, let us know more about you'
       - input_type: checkbox
         name: consent
         label: >-
