@@ -51,7 +51,6 @@ sections:
         options:
           - Consulting
           - Advisory Work
-          - Other
       - input_type: textarea
         name: message
         label: Message
