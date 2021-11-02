@@ -44,13 +44,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Consulting
-          - Advisory Work
       - input_type: textarea
         name: message
         label: Message
