@@ -9,16 +9,23 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
+    content: >
       ### Heads Up
 
+
       Our fund is small and we're conserving investment resources for our
-      existing companies to get well into 2021. However, we are happy to help
+      existing companies to get well into 2022. However, we are happy to help
       founders with advice, consulting or any other way we can be helpful.
 
-      ### Privacy
 
-      We don't share your information with any third parties. Period.
+
+
+      ### Jobs
+
+
+      We're currnetly looking for an Elixir engineer that wants to get it on the
+      ground floor of a stealth FinTech startup. Unique opportunity with a
+      proven team. 
     content_align: left
     form_position: right
     form_width: fifty
