@@ -41,7 +41,7 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-       Content: >
+        content: >
           Data prototyping for digital product managers
         content_align: center
         actions:
