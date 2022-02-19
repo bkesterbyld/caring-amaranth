@@ -101,8 +101,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ML that harvests productivity data from disparate robot systems within
-          an enterprise.
+          FinTech aggregating enterprise backbone data for
+          mid-market enterprises.
         content_align: center
         actions:
           - label: website coming
