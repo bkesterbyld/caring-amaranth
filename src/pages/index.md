@@ -23,10 +23,9 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance.
-
-
+      We help technical founders craft a product direction, GTM plan and get into 
+      market fast with hands-on trenchwork, starter capital and fundraising assistance.
+    
       Our focus is on companies building cloud-native products that leverage
       real-time data from machines, mobile apps, and proprietary data stores.
     actions: []
@@ -42,7 +41,7 @@ sections:
       - title: ''
         title_align: left
         content: >
-          Data prototyping for digital product managers
+          No code prototyping for digital product managers
         content_align: center
         actions:
           - label: confidentially acquired
@@ -102,12 +101,13 @@ sections:
           Treasury platform for mid-market CFOs
         content_align: center
         actions:
-          - label: website coming
-            style: link
-            has_icon: false
-            icon: arrow-left
+          - label: visit
+            url: 'http://www.rtzen.ai'
+            style: secondary
+            has_icon: true
+            icon: arrow-right
             icon_position: right
-            new_window: false
+            new_window: true
             type: action
         actions_align: center
         actions_width: auto
@@ -147,7 +147,7 @@ sections:
           SaaS & hardware testing service to assure no THC in hemp products
         content_align: center
         actions:
-          - label: didn't make it    ¯\_(ツ)_/¯
+          - label: didn't make it   ¯\_(ツ)_/¯
             style: link
             has_icon: false
             icon: arrow-left
