@@ -45,13 +45,12 @@ sections:
           Data prototyping for digital product managers
         content_align: center
         actions:
-          - label: visit
-            url: 'http://www.abovecomp.com'
-            style: secondary
-            has_icon: true
-            icon: arrow-right
+          - label: confidentially acquired
+            style: link
+            has_icon: false
+            icon: arrow-left
             icon_position: right
-            new_window: true
+            new_window: false
             type: action
         actions_align: center
         image: images/Above.png
@@ -62,16 +61,15 @@ sections:
       - title: ''
         title_align: left
         content: |
-          SaaS & wireless sensors to know when concrete is cured (acquired by HILTI)
+          SaaS & wireless sensors to know when concrete is cured
         content_align: center
         actions:
-          - label: visit
-            url: 'http://www.concretesensors.com'
-            style: secondary
-            has_icon: true
-            icon: arrow-right
+          - label: acquired by HILTI
+            style: link
+            has_icon: false
+            icon: arrow-left
             icon_position: right
-            new_window: true
+            new_window: false
             type: action
         actions_align: center
         image: images/CS.png
@@ -101,8 +99,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          FinTech aggregating enterprise backbone data for
-          mid-market enterprises.
+          Treasury platform for mid-market CFOs
         content_align: center
         actions:
           - label: website coming
@@ -119,7 +116,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/stealth.png
+        image: images/rtzen.png
       - title: ''
         subtitle: ''
         title_align: left
@@ -150,13 +147,12 @@ sections:
           SaaS & hardware testing service to assure no THC in hemp products
         content_align: center
         actions:
-          - label: visit
-            url: 'http://vorga.io'
-            style: secondary
-            has_icon: true
-            icon: arrow-right
+          - label: didn't make it    ¯\_(ツ)_/¯
+            style: link
+            has_icon: false
+            icon: arrow-left
             icon_position: right
-            new_window: true
+            new_window: false
             type: action
         actions_align: center
         actions_width: auto
