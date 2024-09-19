@@ -23,8 +23,7 @@ sections:
   - type: cta_section
     title: ''
     content: >
-      We help technical founders craft a product direction, GTM plan and get into 
-      market fast with hands-on trenchwork, starter capital and fundraising assistance.
+      We help technical founders craft a product direction, GTM plan and validate quickly with hands-on trenchwork, starter capital and fundraising assistance.
     
       Our focus is on companies building cloud-native products that leverage
       real-time data from machines, mobile apps, and proprietary data stores.
